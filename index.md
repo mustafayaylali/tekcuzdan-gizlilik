@@ -38,10 +38,21 @@ Hizmetimiz 13 yaşın altındaki bireylere ("Çocuklar") hitap etmemektedir. 13 
 ## 5. Bu Politikadaki Değişiklikler
 
 Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Herhangi bir değişiklik olması durumunda yeni Gizlilik Politikasını bu sayfada yayınlayarak sizi bilgilendireceğiz.
-
+****
 ## 6. Bize Ulaşın
 
 Gizlilik Politikamızla ilgili sorularınız veya verilerinizin silinmesi talebiniz için bize ulaşabilirsiniz:
 
 * **E-posta:** yaylaliyazilim@gmail.com
 * **Geliştirici:** Mandg Studio
+
+## 7.Hesap Silme (Account Deletion)
+
+Kullanıcılarımız hesaplarının ve ilgili verilerinin silinmesini talep etme hakkına sahiptir. Şu an için uygulama içerisinde otomatik bir silme butonu bulunmamaktadır (veya geliştirme aşamasındadır).
+
+Hesabınızın ve verilerinizin kalıcı olarak silinmesi için lütfen aşağıdaki adımları izleyin:
+
+1. Kayıtlı olduğunuz e-posta adresinden veya telefon numarasını belirterek **[destek@mailadresin.com]** adresine "Hesap Silme Talebi" konulu bir e-posta gönderin.
+2. Talebiniz alındıktan sonra 7 iş günü içerisinde hesabınız ve ilişkili tüm verileriniz sistemimizden kalıcı olarak silinecektir.
+
+Verilerinizin güvenliği ve gizliliği bizim için önceliklidir.
